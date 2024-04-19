@@ -1,11 +1,11 @@
-// * Summary *
-
+# Splitting
+```
 BenchmarkDotNet v0.13.12, Windows 10 (10.0.19045.4170/22H2/2022Update)
 Intel Core i7-7700K CPU 4.20GHz (Kaby Lake), 1 CPU, 8 logical and 4 physical cores
 .NET SDK 8.0.200
   [Host]     : .NET 8.0.2 (8.0.224.6711), X64 RyuJIT AVX2
   DefaultJob : .NET 8.0.2 (8.0.224.6711), X64 RyuJIT AVX2
-
+```
 
 | Method         | TestString           | Mean       | Error     | StdDev    | Ratio    | RatioSD | Gen0   | Allocated | Alloc Ratio |
 |--------------- |--------------------- |-----------:|----------:|----------:|---------:|--------:|-------:|----------:|------------:|
